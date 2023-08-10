@@ -1,7 +1,8 @@
 <script>
 </script>
   <svelte:head>
-    <link rel="stylesheet" href="../all.css">
+    
+    <link rel="stylesheet" href="../pico.min.css">
   </svelte:head>
 
 <slot>Layout</slot>

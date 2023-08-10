@@ -67,8 +67,6 @@
   export let ref = null;
 
   import { createEventDispatcher } from "svelte";
-  import Close from "../icons/Close.svelte";
-  import IconSearch from "../icons/IconSearch.svelte";
   import SearchSkeleton from "./SearchSkeleton.svelte";
 
   const dispatch = createEventDispatcher();
