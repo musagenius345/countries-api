@@ -1,0 +1,14 @@
+{
+	"semi": false,
+	"useTabs": true,
+	"singleQuote": true,
+	"plugins": ["prettier-plugin-svelte"],
+	"overrides": [
+		{
+			"files": "*.svelte",
+			"options": {
+				"parser": "svelte"
+			}
+		}
+	]
+}
